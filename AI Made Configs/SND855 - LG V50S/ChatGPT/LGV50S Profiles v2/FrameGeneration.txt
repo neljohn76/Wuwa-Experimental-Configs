@@ -1,0 +1,5 @@
+FRAME GENERATION — keep your working implementation intact
+
+You reported that Frame Generation works on your device. This pack therefore does not attempt to disable or spoof it. Keep using the exact mechanism that currently works, and test it independently with each profile.
+
+Do not add arbitrary Frame Generation CVars or DeviceProfile spoofing without confirming the actual plugin/mod configuration: unsupported values may be ignored or create artifacts, latency, or crashes.
