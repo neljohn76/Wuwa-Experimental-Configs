@@ -43,4 +43,4 @@ Overwrite when prompted. After a patch, expect one long traversal of stutter whi
 
 ## 👤 Credits
 
-Config by **Nel John Acosta** — part of the LG V50S Experimental Config Project. Built with Vibe AI.
+Config by **neljohn76** — part of the LG V50S Experimental Config Project. Built with Vibe AI.
