@@ -79,7 +79,7 @@ Android/data/com.kurogame.wutheringwaves.global/files/UE4Game/Client/Client/Save
 
 ## 🙏 Credits & License
 
-Created and maintained by **Nel John Acosta** — part of the **LG V50S Experimental Config Project**.
+Created and maintained by **NelJohn 76** — part of the **LG V50S Experimental Config Project**.
 The Vibe AI config family was built with [Vibe](https://chat.mistral.ai) (GLM) on Nel's behalf.
 
 > **Disclaimer** — these configurations are provided "as is", without warranty of any kind. Experimental config users have been around a long time, but still: *use at your own risk.* Kuro's ConfigMonitor may change behavior in any patch. If Kuro Games requests removal of config tooling or files, they will be taken down.
